@@ -1,2 +1,2 @@
 # JihoBot
-### : was born unintelligible
+### : was born unintelligent.
